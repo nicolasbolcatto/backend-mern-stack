@@ -1,0 +1,29 @@
+[
+  {
+    "email": "agustin@gmail.com",
+    "hash": "$2b$10$V6mr/6wInTM4KUlAu1G5keRA7lwIkf2sQf3PhBWwtDcQbiJUqrhzS",
+    "title": "Agustin Torres",
+    "address": "Calle falsa 213",
+    "age": "55",
+    "phone": "+54121255852",
+    "avatarUrl": "./assets/users/avatar.png"
+  },
+  {
+    "email": "nicolas@gmail.com",
+    "hash": "$2b$10$8dZP2P5938JTgoC.T5NU8.f0EGAakTWg2zx/aEUPQFuLuBMLF9bau",
+    "title": "Nicolas Bolcatto",
+    "address": "Calle falsa 456",
+    "age": "33",
+    "phone": "+45341265985",
+    "avatarUrl": "./assets/users/avatar.png"
+  },
+  {
+    "email": "juan@gmail.com",
+    "hash": "$2b$10$f8wyYTEEh5fy3.Ibqmvnyetw.nbaebfUsk8PblbqJZQpoc2WH/wvG",
+    "title": "Juan Perez",
+    "address": "Calle fulana 321",
+    "age": "33",
+    "phone": "+5463258963",
+    "avatarUrl": "./assets/users/avatar.png"
+  }
+]

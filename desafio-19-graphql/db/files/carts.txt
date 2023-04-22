@@ -1,0 +1,531 @@
+[
+  {
+    "products": [
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5db0"
+        },
+        "id": 13,
+        "category": "Total Stress",
+        "name": "Quick Triaxial Single Stage (UU)",
+        "price": 40,
+        "description": "Single Stage Unconsolidated Undrained Triaxial (only one confining stress stage) for 38 mm. or 70 mm. diameter specimen.",
+        "standards": "ASTM D2850",
+        "unit": "Undisturbed sample or Disturbed sample (for remoulding)",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 32
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5db0"
+        },
+        "id": 13,
+        "category": "Total Stress",
+        "name": "Quick Triaxial Single Stage (UU)",
+        "price": 40,
+        "description": "Single Stage Unconsolidated Undrained Triaxial (only one confining stress stage) for 38 mm. or 70 mm. diameter specimen.",
+        "standards": "ASTM D2850",
+        "unit": "Undisturbed sample or Disturbed sample (for remoulding)",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 32
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5da5"
+        },
+        "id": 2,
+        "category": "Classification",
+        "name": "Atterberg Limits & Classification",
+        "price": 35,
+        "description": "Atterberg Limits determination of soil samples. Includes wet sieving (#10, #40, #200) to allow for USCS and AASHTO Classification. Does not include full particle size distribution analysis.",
+        "standards": "ASTM D2487",
+        "unit": "Disturbed/Undisturbed sample",
+        "url": "classification.png",
+        "materialRequired": "300 g of material passing #4 sieve.",
+        "stock": 66
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dac"
+        },
+        "id": 9,
+        "category": "Compaction",
+        "name": "California Bearing Ratio (CBR)",
+        "price": 400,
+        "description": "Determination of California Bearing Ratio value for compacted soils. Includes up to 6 remoulded and 5-day soaked specimens.",
+        "standards": "ASTM D1883",
+        "unit": "Disturbed sample",
+        "url": "cbr.png",
+        "materialRequired": "<br>For materials with less than 5% larger than 20 mm.: 15 kg <br>For materials with more than 5% larger than 20 mm.: 40 kg",
+        "stock": 66
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dad"
+        },
+        "id": 10,
+        "category": "Consolidation",
+        "name": "One-Dimensional Consolidation",
+        "price": 100,
+        "description": "One-dimensional consolidation (Oedometer) of undisturbed, saturated soil samples. Includes up to 7 loading stages (max. stress = 800 kPa) and 3 unloading stages. Maximum duration is 10 days (extra days will be charged separately).",
+        "standards": "ASTM D2435",
+        "unit": "Undisturbed sample",
+        "url": "oedometer.png",
+        "materialRequired": "<br>Liner sample at least 10 cm long or block sample at least 10 cm. x 10 cm. x 10 cm.",
+        "stock": 14
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5dae"
+        },
+        "id": 3,
+        "category": "Consolidation",
+        "name": "Triaxial Consolidation",
+        "price": 225,
+        "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+        "standards": "ASTM D4767",
+        "unit": "Undisturbed sample",
+        "url": "tx.png",
+        "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+        "stock": 33
+      },
+      {
+        "_id": {
+          "$oid": "6402394cf1bd3a1b12ef5daa"
+        },
+        "id": 1,
+        "category": "Compaction",
+        "name": "Standard Proctor (T-99)",
+        "price": 100,
+        "description": "Determination of dry density-moisture relationship of soil using 2,5 kg hammer (standard effort).",
+        "standards": "ASTM D698",
+        "unit": "Disturbed sample",
+        "url": "proctor.png",
+        "materialRequired": "<br>For materials with less than 5% larger than 20 mm.: 15 kg <br>For materials with more than 5% larger than 20 mm.: 40 kg",
+        "stock": 13
+      }
+    ],
+    "id": 1,
+    "timestamp": "Mon, 27 Mar 2023 17:47:05 GMT",
+    "userEmail": "agustin@gmail.com"
+  },
+  {
+    "products": [],
+    "id": 2,
+    "timestamp": "Mon, 27 Mar 2023 17:47:05 GMT",
+    "userEmail": "nicolas@gmail.com"
+  },
+  {
+    "products": [],
+    "id": 3,
+    "timestamp": "Mon, 27 Mar 2023 17:47:05 GMT",
+    "userEmail": "juan@gmail.com"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "_id": {
+      "$oid": "6402394cf1bd3a1b12ef5daa"
+    },
+    "id": 1,
+    "category": "Compaction",
+    "name": "Standard Proctor (T-99)",
+    "price": 100,
+    "description": "Determination of dry density-moisture relationship of soil using 2,5 kg hammer (standard effort).",
+    "standards": "ASTM D698",
+    "unit": "Disturbed sample",
+    "url": "proctor.png",
+    "materialRequired": "<br>For materials with less than 5% larger than 20 mm.: 15 kg <br>For materials with more than 5% larger than 20 mm.: 40 kg",
+    "stock": 13
+  },
+  {
+    "_id": {
+      "$oid": "6402394cf1bd3a1b12ef5dab"
+    },
+    "id": 2,
+    "category": "Compaction",
+    "name": "Modified Proctor (T-180)",
+    "price": 120,
+    "description": "Determination of dry density-moisture relationship of soil using 4,5 kg hammer (modified effort).",
+    "standards": "ASTM D1557",
+    "unit": "Disturbed sample",
+    "url": "proctor.png",
+    "materialRequired": "<br>For materials with less than 5% larger than 20 mm.: 15 kg <br>For materials with more than 5% larger than 20 mm.: 40 kg",
+    "stock": 25
+  },
+  {
+    "_id": {
+      "$oid": "6402394cf1bd3a1b12ef5dae"
+    },
+    "id": 3,
+    "category": "Consolidation",
+    "name": "Triaxial Consolidation",
+    "price": 225,
+    "description": "Triaxial consolidation of undisturbed, saturated soil samples. Includes one stress level up to 4 days (extra days will be charged separately).",
+    "standards": "ASTM D4767",
+    "unit": "Undisturbed sample",
+    "url": "tx.png",
+    "materialRequired": "<br>Liner sample with at least 2 length/diameter ratio or block sample twice the size of 2:1 length/diameter ratio.",
+    "stock": 33
+  }
+]
